@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bcol{
+    box-shadow: -1px 6px 13px 0px rgba(212,193,193,0.95);
+-webkit-box-shadow: -1px 6px 13px 0px rgba(212,193,193,0.95);
+-moz-box-shadow: -1px 6px 13px 0px rgba(212,193,193,0.95); 
+}
+.cen
+{
+    margin: 10px;
+}

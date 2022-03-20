@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.view h2
+{
+    font-family: 'Supermercado One', cursive;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.view p
+{
+    font-size: 25px;
+    margin-left: 5px;
+}
+.view button
+{
+    align-items: center;
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+    border: none;
+    background: none;
+    background: linear-gradient(60deg, #F7971E,#FFD200);
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px 0px rgba(230,211,211,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(230,211,211,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(230,211,211,0.75);
+    transition: 1.5s all;
+}
+.view button:hover
+{
+    width: 210px;
+    opacity: 0.6;
+    background: linear-gradient(180deg,  #F7971E,#FFD200);
+}
